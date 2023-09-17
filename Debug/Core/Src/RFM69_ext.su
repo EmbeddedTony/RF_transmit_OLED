@@ -1,0 +1,7 @@
+../Core/Src/RFM69_ext.c:14:6:RFM69_RST	8	static
+../Core/Src/RFM69_ext.c:22:6:noInterrupts	4	static
+../Core/Src/RFM69_ext.c:28:6:interrupts	4	static
+../Core/Src/RFM69_ext.c:34:6:RFM69_SetCSPin	16	static
+../Core/Src/RFM69_ext.c:39:6:RFM69_ReadDIO0Pin	8	static
+../Core/Src/RFM69_ext.c:66:6:Timeout_IsTimeout1	8	static
+../Core/Src/RFM69_ext.c:79:6:Timeout_SetTimeout1	16	static
